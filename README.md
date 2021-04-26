@@ -10,6 +10,7 @@ $ pip install requests
 
 $ pip inatall pytube
 
+$ git clone https://github.com/XPL01T3R/Fata_SMS
 
 # For Running
 $ cd Fata_SMS
