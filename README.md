@@ -36,3 +36,4 @@ $ python fatasms.py
 
 
 # Screenshot
+![Screenshot_20210427-180910_1](https://user-images.githubusercontent.com/68107213/116239745-d706c980-a784-11eb-9888-d51458d60380.png)
